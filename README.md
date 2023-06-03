@@ -3,11 +3,14 @@
 
 # Abhijit Sahoo
 
+
 Fresher
 ## About
-* Continuing BSc. ITM at Ravenshaw University
-* <img src="" width="100px" height="100px"> joined in [NCC](https://indiancc.nic.in)
+* Continuing BSc. ITM at <img src="https://github.com/Abhijitsahooabhi/Abhijitsahooabhi/assets/116071426/4d4708bf-c198-4f00-82b9-a6400be8bad2" width="30px" height="30px">  Ravenshaw University
+<!-- ![download](https://github.com/Abhijitsahooabhi/Abhijitsahooabhi/assets/116071426/4d4708bf-c198-4f00-82b9-a6400be8bad2) -->
 
+* <img src="https://github.com/Abhijitsahooabhi/Abhijitsahooabhi/assets/116071426/ce1bdbb3-1074-422d-9b79-83e073e59410" width="35px" height="50px"> joined in [NCC(National Cadet Crops)](https://indiancc.nic.in)
+<!--![ncc](https://github.com/Abhijitsahooabhi/Abhijitsahooabhi/assets/116071426/ce1bdbb3-1074-422d-9b79-83e073e59410)-->
 
 
  You can also view my Resume
