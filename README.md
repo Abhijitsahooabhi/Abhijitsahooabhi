@@ -1,15 +1,5 @@
-<style>
-   h1:hover
-{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: crimson;
-    animation: blink 1s steps(1, end) infinite;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}
-</style>
-# <h1>Abhijit Sahoo<h1>
+# Abhijit Sahoo
 <img src="https://github.com/Abhijitsahooabhi/Abhijitsahooabhi/assets/116071426/37696dee-6e01-4724-bf12-79662a27f1db" width="450px" height="400px">
-
 
 Fresher
 ## About
