@@ -19,14 +19,14 @@ Information Technology student with a solid foundation in DBMS, Web Technologies
 - Adaptation & Smart Learning
 
 ## <img width="35" height="35" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/diploma.png"/>  Education
-**Bachelor’s Degree in Information Technology and Management**  
-Ravenshaw University, Cuttack | 2021 – 2024 | CGPA: 8.66
+ - **Bachelor’s Degree in Information Technology and Management**  
+   - Ravenshaw University, Cuttack | 2021 – 2024 | CGPA: 8.66
 
-**12th Board in Science**  
-Stewart Science College, Cuttack | 2019 – 2021 | Percentage: 76.17%
+ - **12th Board in Science**  
+   - Stewart Science College, Cuttack | 2019 – 2021 | Percentage: 76.17%
 
-**10th Board or Matriculation**  
-Ravenshaw Collegiate School, Cuttack | 2018 – 2019 | Percentage: 74.17%
+ - **10th Board or Matriculation**  
+   - Ravenshaw Collegiate School, Cuttack | 2018 – 2019 | Percentage: 74.17%
 
 ## <img width="35" height="35" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/concept.png" />  Projects
 ### ILEARNSPACE - Web Development Project
