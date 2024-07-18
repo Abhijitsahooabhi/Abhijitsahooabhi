@@ -1,6 +1,8 @@
-<h1 align="center">ABHIJIT SAHOO</h1>  
+<h1 align="center" style="font-family: cursive;">ABHIJIT SAHOO</h1>  
+<p align="center"> <img width="275" height="350" src="https://github.com/user-attachments/assets/0599fd7e-e252-4dd4-86be-080fb4d6cf2f"/> </p> 
 <h3 align="center">Student | Fresher | NCC Cadet | Web Developer</h3>  
 <h4 align="center"><img width="18" height="18" src="https://img.icons8.com/pulsar-gradient/48/marker.png"/> Talapada, Jagatsinghpur, Odisha, 754141  </h4>
+
  
 ## <img width="35" height="35" src="https://img.icons8.com/nolan/64/brief.png"/>  Professional Summary
 Information Technology student with a solid foundation in DBMS, Web Technologies, and Programming Languages (C, C++, Java). Proven teamwork, leadership, and problem-solving abilities through academic projects and extracurricular activities. Eager to leverage technical and analytical skills to contribute to a dynamic tech company.
