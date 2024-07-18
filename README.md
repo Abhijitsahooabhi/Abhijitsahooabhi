@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family: cursive;">ABHIJIT SAHOO</h1>  
-<p align="center"> <img width="275" height="350" src="https://github.com/user-attachments/assets/0599fd7e-e252-4dd4-86be-080fb4d6cf2f"/> </p> 
+<p align="center"> <img width="195" height="250" src="https://github.com/user-attachments/assets/0599fd7e-e252-4dd4-86be-080fb4d6cf2f"/> </p> 
 <h3 align="center">Student | Fresher | NCC Cadet | Web Developer</h3>  
 <h4 align="center"><img width="18" height="18" src="https://img.icons8.com/pulsar-gradient/48/marker.png"/> Talapada, Jagatsinghpur, Odisha, 754141  </h4>
 
@@ -61,4 +61,9 @@ Seeking an entry-level position in Information Technology to apply my skills in 
 - **Mother’s Name:** Pramodini Sahoo
 - **Nationality:** Indian
 
+## <img width="35" height="35" src="https://img.icons8.com/nolan/64/certificate.png"/> LICENSE
+#### <p align="center">All content on this GitHub profile is Copyright (c) 2024 Abhijit Sahoo and may not be reproduced without permission. All rights reserved.</p>
+
+
 <p align="center"><a href="mailto:Abhijitofficial977@gmail.com"> <img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/ms-outlook.png"/></a>            <a href="https://www.linkedin.com/in/abhijit-sahoo-abhi70303"><img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/linkedin.png"/></a>          <a href="https://github.com/Abhijitsahooabhi"><img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/github.png"/></a>  <a href="https://t.me/abhijitsahooabhi">        <img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/telegram-app.png"/></a> </p>
+
