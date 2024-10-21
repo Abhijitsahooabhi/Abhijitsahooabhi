@@ -21,6 +21,9 @@ Information Technology student with a solid foundation in DBMS, Web Technologies
 - Adaptation & Smart Learning
 
 ## <img width="35" height="35" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/diploma.png"/>  Education
+ - **Master of Computer Application**  
+   - Institute of Management and Information Technology, Cuttack | 2024 – Present
+   
  - **Bachelor’s Degree in Information Technology and Management**  
    - Ravenshaw University, Cuttack | 2021 – 2024 | CGPA: 8.66
 
